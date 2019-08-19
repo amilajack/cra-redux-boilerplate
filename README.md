@@ -2,6 +2,9 @@
 
 >  ### [create-react-app](https://github.com/facebook/create-react-app) + redux.
 
+[![Build Status](https://travis-ci.org/amilajack/cra-redux-boilerplate.svg?branch=master)](https://travis-ci.org/amilajack/cra-redux-boilerplate)
+
+
 This is a personal configuration of mine which uses my custom eslint config as well with some other opinionated configs. All the scripts are the same as CRA.
 
 ## Setup

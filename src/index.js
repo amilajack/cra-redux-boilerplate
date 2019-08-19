@@ -7,7 +7,7 @@ import App from './components/app/App';
 import * as serviceWorker from './serviceWorker';
 import counterReducer from './reducers/counter';
 
-function configureStore() {
+export default function configureStore() {
   const rootReducer = combineReducers({ counter: counterReducer });
   return createStore(rootReducer, {});
 }
