@@ -41,5 +41,8 @@
   "devDependencies": {
     "eslint-config-bliss": "^4.3.0",
     "eslint-plugin-react": "^7.14.3"
+  },
+  "renovate": {
+    "extends": ["bliss"]
   }
 }
