@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import './App.css';
 import { increment, decrement, incrementIfOdd } from '../../actions/counter';
 
-function App(props) {
+export function App(props) {
   return (
     <div className="App">
       <header className="App-header">
